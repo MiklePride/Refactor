@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-public class ShootController : MonoBehaviour
+public class Shooting : MonoBehaviour
 {
     [SerializeField] private float _speed;
     [SerializeField] private GameObject _bullet;

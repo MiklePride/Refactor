@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class PathController : MonoBehaviour
+public class Patroller : MonoBehaviour
 {
     [SerializeField] private Transform _path;
     [SerializeField] private float _speed;
